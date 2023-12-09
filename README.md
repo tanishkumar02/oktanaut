@@ -1,8 +1,8 @@
 # How I Built an Okta Documentation Chatbot in Python
 
-This repo is a .NET MAUI application that uses Okta for authentication. It uses Okta's redirect model to sign in and displays your profile information.
+This repo is a Python chatbot example that uses OpenAI to quickly access information through [Okta's Developer Documentation](https://developer.okta.com). 
 
-Please read How to Add Authentication to .NET MAUI Apps to see how it was created.
+Please read How I Built an Okta Documentation Chatbot in Python to see how it was created.
 
 ### Prerequisites:
 
