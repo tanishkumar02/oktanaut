@@ -12,7 +12,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 - Download these [files](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved on your drive (not within any folders) and that you are mounting the files from the correct account.
 
-## Getting Started
+
 - [Help](https://github.com/oktadev/okta-python-chatbot-example/edit/main/README.md#help)
 - [License](https://github.com/oktadev/okta-python-chatbot-example/edit/main/README.md#license)
 - [Run the app](https://github.com/oktadev/okta-python-chatbot-example/edit/main/README.md#run-the-app)
