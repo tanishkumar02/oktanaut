@@ -8,7 +8,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversation.
 
-Get an OpenAI API key by creating an account and following the instructions at https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key. Replace the API Key code snippet with your API Key
+Get an OpenAI API key by creating an account and following the instructions at https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key. Replace the API Key code snippet with your API Key.
 
 Download the files from https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link and make sure the files are saved on your drive (not within any folders) and you are mounting the files from the correct account
 
@@ -20,14 +20,36 @@ Getting Started
 Clone or download the sample. You can download the files as a zip file. To clone the repo follow the instructions below:
 
 ## Run the app
-1. Run the Python script in your development environment.
-2. After running the script, a web interface will be displayed, including an input field and a "Chat with Oktanaut!" button.
-3. Enter your questions or prompts in the input field. For example, you can ask about Okta or OAuth developer documentation.
-4. Click the "Chat with Oktanaut!" button to submit your question.
-5. Oktanaut will respond to your question with a chatbot-generated answer.
-6. You can continue the conversation by entering additional questions or prompts and clicking the button.
-7. To end the session, you can say "thank you," as mentioned in the introductory message.
-8. The chatbot will answer questions and converse based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
+1. With a Google account, ensure you have access to [Colab](https://colab.google/); this will be the environment we will use to run the Python scripts. 
+2. Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversation. Note, LlamaIndex was used only to read the data.
+
+3. Create an OpenAI account and follow these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key)to receive an API Key. Replace the API Key code snippet with your API Key. ChatGPT used to offer free credits to use, but it now costs five or more dollars to purchase API usage.
+
+{% img blog/okta-documentation-chatbot/openai-api-key.jpeg alt:"Image with an arrow pointing to where the OpenAI API key should be added in the code." height:"400" %}{: .center-image }
+
+4. Download the Okta documentation files from my shared Google Drive folder [here](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved in a 
+ separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Make sure the name of the folder is 'oktanaut'.
+
+5. Run the GPTChatbot.ipynb notebook in your Colab development environment.
+
+Add image to directly run it on Github
+
+6. After running the script, a web interface displays an input field and a "Chat with Oktanaut!" button.
+
+7. Enter your questions or statements about the Okta or OAuth developer documentation in the input field
+
+8. To submit your question, click the "Chat with Oktanaut!" button to begin conversation with the Python chatbot.
+
+9. Oktanaut will answer your question with an ai-generated response using its knowledge from the developer documentation, training data from internal support engineers, and the OpenAI API.
+
+10. Continue the conversation by entering additional questions or prompts and clicking the button. This will lead to better answers due to the self-learning nature of the chatbot.
+
+11. To end the session, say "thank you," which is also mentioned by the chatbot in its introductory message.
+
+12. The chatbot answers questions and converses based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
+
+Note: The conversation and responses will appear on the web interface in real-time. Feel free to try it out and have a conversation with Oktanaut!
+
 
 ## Help
 Please post any questions as comments on the blog post, or visit our Okta Developer Forums.
