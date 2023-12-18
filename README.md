@@ -25,8 +25,6 @@ Clone or download the sample. You can download the files as a zip file. To clone
 
 3. Create an OpenAI account and follow these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key)to receive an API Key. Replace the API Key code snippet with your API Key. ChatGPT used to offer free credits to use, but it now costs five or more dollars to purchase API usage.
 
-{% img blog/okta-documentation-chatbot/openai-api-key.jpeg alt:"Image with an arrow pointing to where the OpenAI API key should be added in the code." height:"400" %}{: .center-image }
-
 4. Download the Okta documentation files from my shared Google Drive folder [here](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved in a 
  separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Make sure the name of the folder is 'oktanaut'.
 
@@ -55,4 +53,4 @@ Note: The conversation and responses will appear on the web interface in real-ti
 Please post any questions as comments on the blog post, or visit our Okta Developer Forums.
 
 ## License
-Apache 2.0, see LICENSE.
+Apache 2.0, see [LICENSE](https://github.com/oktadev/okta-python-chatbot-example/blob/main/LICENSE).
