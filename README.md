@@ -6,18 +6,17 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 ### Prerequisites:
 
-Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversation.
+- Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversations.
 
-Get an OpenAI API key by creating an account and following these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key). Replace the API Key code snippet with your API Key.
+- Get an OpenAI API key by creating an account and following these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key). Replace the API Key code snippet with your API Key.
 
-Download these [files](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved on your drive (not within any folders) and that you are mounting the files from the correct account.
+- Download these [files](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved on your drive (not within any folders) and that you are mounting the files from the correct account.
 
 ## Getting Started
-Links
-Help
-License
-Getting Started
-Clone or download the sample. You can download the files as a zip file. To clone the repo follow the instructions below:
+- [Help](## Help)
+- License
+- Run the app
+
 
 ## Run the app
 1. With a Google account, ensure you have access to [Colab](https://colab.google/); this will be the environment we will use to run the Python scripts. 
