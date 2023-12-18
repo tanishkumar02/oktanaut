@@ -8,9 +8,9 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversation.
 
-Get an OpenAI API key by creating an account and following the instructions at https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key. Replace the API Key code snippet with your API Key.
+Get an OpenAI API key by creating an account and following these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key). Replace the API Key code snippet with your API Key.
 
-Download the files from https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link and make sure the files are saved on your drive (not within any folders) and you are mounting the files from the correct account
+Download these [files](https://drive.google.com/drive/folders/11W-cjmkTztmnGgJCsJRtE395Iji6JX53?usp=share_link) and make sure the files are saved on your drive (not within any folders) and that you are mounting the files from the correct account.
 
 ## Getting Started
 Links
@@ -29,8 +29,6 @@ Clone or download the sample. You can download the files as a zip file. To clone
  separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Make sure the name of the folder is 'oktanaut'.
 
 5. Run the GPTChatbot.ipynb notebook in your Colab development environment.
-
-Add image to directly run it on Github
 
 6. After running the script, a web interface displays an input field and a "Chat with Oktanaut!" button.
 
