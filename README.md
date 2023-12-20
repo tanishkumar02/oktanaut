@@ -32,19 +32,15 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 6. After running the script, a web interface displays an input field and a "Chat with Oktanaut!" button.
 
-7. Enter your questions or statements about the Okta or OAuth developer documentation in the input field
+7. Enter your questions about the Okta Developer Documentation in the input field.
 
-8. To submit your question, click the "Chat with Oktanaut!" button to begin conversation with the Python chatbot.
+8. To submit your question, click the "Chat with Oktanaut!" button to begin a conversation with the Python chatbot.
 
-9. Oktanaut will answer your question with an ai-generated response using its knowledge from the developer documentation, training data from internal support engineers, and the OpenAI API.
+9. Oktanaut will answer your question with an AI-generated response using its knowledge from the developer documentation, training data from internal support engineers, and the OpenAI API. The responses will appear on the web interface in real-time.
 
 10. Continue the conversation by entering additional questions or prompts and clicking the button. This will lead to better answers due to the self-learning nature of the chatbot.
 
-11. To end the session, say "thank you," which is also mentioned by the chatbot in its introductory message.
-
-12. The chatbot answers questions and converses based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
-
-Note: The conversation and responses will appear on the web interface in real-time. Feel free to try it out and have a conversation with Oktanaut!
+11. To end the session, say "Thank you," which is also mentioned by the chatbot in its introductory message.
 
 
 ## Help
