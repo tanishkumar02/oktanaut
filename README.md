@@ -26,7 +26,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 3. Create an OpenAI account and follow these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) to obtain an API Key. Replace the API Key code snippet with your API Key. ChatGPT used to offer free credits to use, but it now costs five or more dollars to purchase API usage.
 
 4. Download the Okta Developer Documentation files [here](https://github.com/oktadev/okta-python-chatbot-example/tree/tar-file) and make sure the files are saved in a 
- separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Also confirm the of the folder is 'oktanaut'. You can also download the files directly from the [Okta Developer Documentation Repository](https://github.com/okta/okta-developer-docs).
+ separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Also, confirm that the name of the folder is 'oktanaut'. Alternatively, you can download the files directly from the [Okta Developer Documentation Repository](https://github.com/okta/okta-developer-docs).
 
 5. Run the GPTChatbot.ipynb notebook in your Colab development environment.
 
