@@ -2,7 +2,7 @@
 
 This repo is a Python chatbot example that uses OpenAI to quickly access information through [Okta's Developer Documentation](https://developer.okta.com). 
 
-Please read How I Built an Okta Documentation Chatbot in Python to see how it was created.
+Please read [How I Built an Okta Documentation Chatbot in Python](https://developer.okta.com/blog/2023/12/20/okta-documentation-chatbot) to see how it was created.
 
 ### Prerequisites:
 
@@ -44,7 +44,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 
 ## Help
-Please post any questions as comments on the blog post, or visit our [Okta Developer Forum](https://devforum.okta.com/).
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2023/12/20/okta-documentation-chatbot) or visit our [Okta Developer Forum](https://devforum.okta.com/).
 
 ## License
 Apache 2.0, see [LICENSE](https://github.com/oktadev/okta-python-chatbot-example/blob/main/LICENSE).
