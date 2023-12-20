@@ -44,7 +44,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 
 ## Help
-Please post any questions as comments on the blog post, or visit our Okta Developer Forums.
+Please post any questions as comments on the blog post, or visit our [Okta Developer Forum](https://devforum.okta.com/).
 
 ## License
 Apache 2.0, see [LICENSE](https://github.com/oktadev/okta-python-chatbot-example/blob/main/LICENSE).
