@@ -23,7 +23,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 2. Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversation. Note, LlamaIndex was used only to read the data.
 
-3. Create an OpenAI account and follow these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) to receive an API Key. Replace the API Key code snippet with your API Key. ChatGPT used to offer free credits to use, but it now costs five or more dollars to purchase API usage.
+3. Create an OpenAI account and follow these [instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) to obtain an API Key. Replace the API Key code snippet with your API Key. ChatGPT used to offer free credits to use, but it now costs five or more dollars to purchase API usage.
 
 4. Download the Okta Developer Documentation files [here](https://github.com/oktadev/okta-python-chatbot-example/tree/tar-file) and make sure the files are saved in a 
  separate folder on your drive (not within any folders) and you are mounting the files from your Google account. Make sure the name of the folder is 'oktanaut'. You can also download the files directly from the [Okta Developer Documentation Repository](https://github.com/okta/okta-developer-docs).
