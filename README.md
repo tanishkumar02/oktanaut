@@ -6,7 +6,7 @@ Please read How I Built an Okta Documentation Chatbot in Python to see how it wa
 
 ### Prerequisites:
 
-- Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversations.
+- Library installation: The script begins with installing the required Python packages: [OpenAI](https://pypi.org/project/openai/)(GPT-3.5 version), [Panel](https://panel.holoviz.org/getting_started/installation.html), and [LlamaIndex](https://pypi.org/project/llama-index/). These packages work with the GPT-3.5 model, create the web interface, and manage the chatbot's conversations.
 
 - [OpenAI API account](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) 
 
